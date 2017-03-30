@@ -7,3 +7,25 @@ Software
 
 ## Spotlight
 * Command + Space => Spotlight
+
+## Feedly
+* subscribe GitHub trending python/go/elixir/rust repo weekly or daily
+* Google keyword alerts such as doker/openstack/kubenetes
+
+## Devdocs
+* offline cpp/go/py2.7/py3.6 documentations
+
+## Atom
+* plugin: apm install ask-stack activate-power-mode go-plus language-cpp14 language-elixir python-jedi python-tools
+* hotkeys: CTRL-ALT-G: goto python definition
+
+## Ripgrep
+* faster and effective than linux grep
+
+## Chrome Extension
+* Exporter: combine aria2c with pan.baidu.com
+* Gliffy: UML, network diagram...drawing tool
+* Octotree: GitHub file tree explorer
+* Youdao: dict
+* Vimium: vim-like operations on webpage
+* Douting: listen songs by album on music.douban.com
