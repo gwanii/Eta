@@ -29,3 +29,9 @@ Software
 * Youdao: dict
 * Vimium: vim-like operations on webpage
 * Douting: listen songs by album on music.douban.com
+
+## Regex
+* online regex example tool: http://regexr.com/
+
+## Crontab
+* online crontab generator tool: http://crontab-generator.org/
